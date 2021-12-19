@@ -49,3 +49,6 @@ doro_contest
 3. 구동 전 doro_contest 가 있는 파일의 경로를 입력해주세요.
 4. 실행
 
+
+결과 링크:
+https://drive.google.com/drive/folders/1aR0RQIeRV28rCkkUCkRANuYVhvvELQkr?usp=sharing
