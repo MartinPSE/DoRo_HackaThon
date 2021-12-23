@@ -51,4 +51,4 @@ doro_contest
 
 
 결과 링크:
-https://drive.google.com/drive/folders/1aR0RQIeRV28rCkkUCkRANuYVhvvELQkr?usp=sharing
+https://drive.google.com/drive/folders/1XlTMbv15QijhQJQIWFBpJU7uHAH8TMAO?usp=sharing
